@@ -1,2 +1,0 @@
-# SpinAddon
-Addon kodi
